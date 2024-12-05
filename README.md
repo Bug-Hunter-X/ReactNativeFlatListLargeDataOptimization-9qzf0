@@ -1,0 +1,1 @@
+This repository demonstrates a common performance issue with React Native's FlatList component when rendering a large number of items. The bug causes the app to crash due to excessive layout calculations. The solution demonstrates how to improve performance using techniques like `estimatedItemSize` and `getItemLayout`.  This is crucial for smooth rendering of long lists.
